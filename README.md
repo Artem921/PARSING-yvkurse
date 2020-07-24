@@ -4,5 +4,5 @@
 ### Parsing of titles, text and links to images of site articles.
 ### To install the dependencies, enter the command in the terminal:
 ```python
-// pip install -r requirements.txt
+ pip install -r requirements.txt
 ```
